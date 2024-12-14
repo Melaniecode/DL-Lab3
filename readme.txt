@@ -14,8 +14,13 @@
   6. mini-batch: https://www.geeksforgeeks.org/ml-mini-batch-gradient-descent-with-python/
   7. max, keepdims: https://numpy.org/doc/2.1/reference/generated/numpy.sum.html
   8. eye: https://numpy.org/devdocs/reference/generated/numpy.eye.html
+  9. permutation: https://numpy.org/doc/2.0/reference/random/generated/numpy.random.permutation.html
 
 - Pandas:
   1. iloc: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
   2. 使用Pandas處理CSV文件: https://vocus.cc/article/62258b3efd89780001ce9272 
   3. axis: https://leemeng.tw/practical-pandas-tutorial-for-aspiring-data-scientists.html
+
+- python: 
+  1. https://pythonbook.cc/chapters/basic/introduction
+  2. https://www.books.com.tw/products/0010922575
